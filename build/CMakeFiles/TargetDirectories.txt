@@ -1,0 +1,6 @@
+/home/cc/ALEX/build/CMakeFiles/edit_cache.dir
+/home/cc/ALEX/build/CMakeFiles/test.dir
+/home/cc/ALEX/build/CMakeFiles/rebuild_cache.dir
+/home/cc/ALEX/build/CMakeFiles/test_alex.dir
+/home/cc/ALEX/build/CMakeFiles/example.dir
+/home/cc/ALEX/build/CMakeFiles/benchmark.dir
